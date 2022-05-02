@@ -9,6 +9,8 @@ public static void main(String[] args) {
 	
 	System.out.println("Git Sucessful");
 	
+	System.out.println("Message Inserted");
+	System.out.println("Sucessful");
 
    }
 }
