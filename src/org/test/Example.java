@@ -1,9 +1,11 @@
 package org.test;
 
 public class Example {
-private void empID(int a,int b) {
+public void empID(int a,int b) {
+	int i=100;
 	int c=a+b;
 	System.out.println("Adition :"+c);
+	System.out.println("I value :"+i);
 }	
 public static void main(String[] args) {
 	
